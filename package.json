@@ -10,5 +10,9 @@
     "cucumber"
   ],
   "author": "antonio casino",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "^0.10.3",
+    "wd": "^0.4.0"
+  }
 }
