@@ -1,0 +1,14 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "testing cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "cucumber"
+  ],
+  "author": "antonio casino",
+  "license": "ISC"
+}
